@@ -3,6 +3,8 @@ Frontend made with :heart: with Vue and Vuetify (Framework which adds Material D
 
 Just let docker-compose do the work for you :wink:. You can find more information about the flow of docker-compose in Dockerfile.
 
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Important: The project uses Vue Router so we need to overwrite the nginx default config with the config placed in nginx folder.` 
+
 
 # Developer mode.
 
