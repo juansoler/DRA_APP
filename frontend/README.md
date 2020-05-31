@@ -1,4 +1,5 @@
-# vuetify
+# Rapid Application Development 2020 UAL - Juan Soler Márquez 
+Frontend made with :heart: with Vue and Vuetify (Framework which adds Material Design to the project)
 
 ## Project setup
 ```
@@ -6,6 +7,11 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
+
+If you want to work in developer mode, this is the best way to do it. Remember to setup the backend service manually. 
+
+At file main.js you can change the backend address. 
+
 ```
 npm run serve
 ```
@@ -27,3 +33,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
