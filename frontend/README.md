@@ -3,6 +3,9 @@ Frontend made with :heart: with Vue and Vuetify (Framework which adds Material D
 
 Just let docker-compose do the work for you :wink:. You can find more information about the flow of docker-compose in Dockerfile.
 
+
+# Developer mode.
+
 If you want to work in developer mode, this is the best way to do it. Remember to setup the backend service manually. 
 
 At file main.js you can change the backend address. 
@@ -14,7 +17,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 
-
+It auto reloads each time you modify any file in src folder and refresh on http:/localhost:8080
 
 ```
 npm run serve
