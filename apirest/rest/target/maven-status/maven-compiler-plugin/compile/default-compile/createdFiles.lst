@@ -1,0 +1,9 @@
+ual\dra\rest\PreguntaRepository.class
+ual\dra\rest\Tema.class
+ual\dra\rest\Pregunta.class
+ual\dra\rest\RestApplication.class
+ual\dra\rest\PreguntaController.class
+ual\dra\rest\RestApplication$EntityExposingIdConfiguration.class
+ual\dra\rest\TemaRepository.class
+ual\dra\rest\RestApplication$EntityExposingIdConfiguration$ListAlwaysContains.class
+ual\dra\rest\TemaController.class
